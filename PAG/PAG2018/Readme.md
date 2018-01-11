@@ -1,6 +1,6 @@
 # Annotation Jamboree at PAG XXVI
 
-This directory contains materials for the primer on genne annotation hosted by Phoenix Bioinformatics on 16 January, 2018 at the Plant and Animal Genome Conference (PAG) XXVI in San Diego, CA. 
+This directory contains materials for the primer on gene annotation hosted by Phoenix Bioinformatics on 16 January, 2018 at the Plant and Animal Genome Conference (PAG) XXVI in San Diego, CA. 
 
 - [Articles](/PAG/PAG2018/articles)
 - [Slides](/PAG/PAG2018/slides)
