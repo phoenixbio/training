@@ -4,6 +4,5 @@ This directory contains materials for the primer on gene annotation hosted by Ph
 
 - [Articles](/PAG/PAG2018/articles)
 - [Slides](/PAG/PAG2018/slides)
-- Follow along this presentation at [http://bit.ly/phx-jam](http://bit.ly/phx-jam)
 - Visit GOAT at [http://toastdos.phoenixbioinformatics.org/](http://toastdos.phoenixbioinformatics.org/)
 - Get an ORCID at [https://orcid.org/](https://orcid.org/)
